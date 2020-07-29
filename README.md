@@ -6,4 +6,4 @@ This project includes:
 
 ## Sub-header 
 
-Watch the demo on  YouTube
+None.
