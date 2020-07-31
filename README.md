@@ -1,8 +1,10 @@
 # Git-hub-Pytorch_for_begineer
 
-This project includes:
+This project includes (chronologically):
 1. Pytorch practise codes
-2. Neural Network with 2 hidden layer 
+2. NN_not_using_function: A image classification problem using pytorch in a simplistic way
+3. Neural Network with 2 hidden layer 
+
 
 ## Sub-header 
 
